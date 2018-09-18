@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="Button">Button</string>
+    <string name="message">Type your message here&#8230;</string>
+    <string name="button_text">PREWIEW</string>
+    <string name="email">EMAIL</string>
+</resources>
