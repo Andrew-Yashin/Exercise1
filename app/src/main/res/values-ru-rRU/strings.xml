@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Задание1</string>
+    <string name="email" translatable="false">Отправить по почте</string>
+    <string name="button_text" translatable="false">Просмотр</string>
+    <string name="message" translatable="false">"Напишите сюда свое сообщение&#8230;"</string>
+</resources>
